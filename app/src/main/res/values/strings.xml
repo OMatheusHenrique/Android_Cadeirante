@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cadeirantes</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="botaohome"/>
+    <string name="titulo" />
+    <string name="tauditorio" />
+    <string name="tbiblioteca" />
+    <string name="biblioteca" />
+    <string name="tcentromem" />
+    <string name="centromem" />
+    <string name="tcentro" />
+    <string name="botaomapa" />
+    <string name="centro" />
+    <string name="tinsti" />
+    <string name="instituto" />
+    <string name="tparque" />
+    <string name="parque" />
+    <string name="auditorio"></string>
+    <string name="volta">Voltar</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="quemsomos">Somos uma empresa que dedica-se no auxílio a cadeirantes o indicando sua localização e locais que há suporte e acessibilidade para turismo na cidade de São Paulo.</string>
+    <string name="txtmapa">Mapa</string>
+    <string name="txtquemsomos">Quem somos?</string>
+<string name="filtro">Aplicar filtro</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="apikey">AIzaSyC7KUhusiz592aJqekCtL025_TNxTsWWbE</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
